@@ -1,0 +1,7 @@
+Pictures.com/{Type}/{size}?country=""&signiture=""&place=""/
+
+
+Example:
+
+
+http://pictures.com/gexankar/medium?country=Armenia&signiture=Ayvazovski&place=Museum_of_History
