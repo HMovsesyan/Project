@@ -1,4 +1,4 @@
-Pictures.com/{Type}/{size}?country=""&signiture=""&place=""/
+http://pictures.com/{Type}/{size}?country=""&signiture=""&place=""/
 
 
 Example:
